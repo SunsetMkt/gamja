@@ -12,7 +12,7 @@
     "node-static": "^0.7.11",
     "parcel": "^2.0.0",
     "split": "^1.0.1",
-    "ws": "^8.3.0"
+    "ws": "^8.17.1"
   },
   "scripts": {
     "start": "node ./dev-server.js",
